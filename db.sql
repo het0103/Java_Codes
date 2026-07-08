@@ -1,3 +1,6 @@
+//Query to create database and table
+
+
 CREATE DATABASE college;
 USE college;
 
